@@ -1,28 +1,25 @@
 Make sure you have provided the following information:
 
- - [Y] link to your code branch cloned from rhboot/shim-review in the form user/repo@tag
- - [Y] completed README.md file with the necessary information
- - [Y] shim.efi to be signed
- - [Y] public portion of your certificate embedded in shim (the file passed to VENDOR_CERT_FILE)
- - [Y] any extra patches to shim via your own git tree or as files
- - [Y] any extra patches to grub via your own git tree or as files
- - [Y] build logs
+ - [ ] link to your code branch cloned from rhboot/shim-review in the form user/repo@tag
+ - [ ] completed README.md file with the necessary information
+ - [ ] shim.efi to be signed
+ - [ ] public portion of your certificate embedded in shim (the file passed to VENDOR_CERT_FILE)
+ - [ ] any extra patches to shim via your own git tree or as files
+ - [ ] any extra patches to grub via your own git tree or as files
+ - [ ] build logs
 
 
 ###### What organization or people are asking to have this signed:
-Broadband Computer Company Ltd (https://www.broadbandcomputer.com)
+`[your text here]`
 
 ###### Version of shim:
-15
+`[your text here]`
 
 ###### Sysdev Submission ID:
-We were directed to the shim review board by Microsoft after submitting our shim to them for signing. Subsequently our original sysdev submission has been closed pending approval from the shim review board.
+`[your text here]`
 
 ###### What product or service is this for:
-Secure COAST 
+`[your text here]`
 
 ###### What's the justification that this really does need to be signed for the whole world to be able to boot it:
-
-Secure COAST is a security focused linux distro based on Ubuntu 18.04. 
-We encourage our customers to boot our OS with secure boot enabled, hence the need for a 
-signed shim.
+`[your text here]`
