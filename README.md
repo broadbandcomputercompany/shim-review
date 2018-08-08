@@ -18,7 +18,7 @@ Here's the template:
 -------------------------------------------------------------------------------
 What organization or people are asking to have this signed:
 -------------------------------------------------------------------------------
-Broadband Computer Company Ltd (https://www.broadbandcomputercompany.com)
+Broadband Computer Company Ltd (http://www.broadbandcomputer.com)
 
 -------------------------------------------------------------------------------
 What product or service is this for:
@@ -38,7 +38,8 @@ Who is the primary contact for security updates, etc.
 - Name: Brian Daglish
 - Position: CTO
 - Email address: brian@broadbandcomputer.com
-- PGP key, signed by the other security contacts, and preferably also with signatures that are reasonably well known in the linux community: https://github.com/broadbandcomputercompany/shim-review/blob/master/bdaglish.key
+- PGP key, signed by the other security contacts, and preferably also with signatures that are reasonably well known in the linux community: 
+https://github.com/broadbandcomputercompany/shim-review/blob/master/bdaglish.key
 
 -------------------------------------------------------------------------------
 Who is the secondary contact for security updates, etc.
@@ -46,7 +47,8 @@ Who is the secondary contact for security updates, etc.
 - Name: Jim Leslie
 - Position: CEO
 - Email address: jim@broadbandcomputer.com
-- PGP key, signed by the other security contacts, and preferably also with signatures that are reasonably well known in the linux community: https://github.com/broadbandcomputercompany/shim-review/blob/master/jleslie.key
+- PGP key, signed by the other security contacts, and preferably also with signatures that are reasonably well known in the linux community: 
+https://github.com/broadbandcomputercompany/shim-review/blob/master/jleslie.key
 
 -------------------------------------------------------------------------------
 What upstream shim tag is this starting from:
